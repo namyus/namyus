@@ -15,8 +15,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=7F7AFF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ph%C6%B0%C6%A1ng+Nam+%F0%9F%91%8B;Java+%7C+.NET+%7C+React;Turning+ideas+into+useful+software;Learning+something+new+every+day+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=namyus&label=PROFILE+VIEWS&color=7F00FF&style=for-the-badge" alt="Profile views" />
+<p> 
+    <img src="https://github-view-counter.vercel.app/api?username=namyus&label=PROFILE+VIEWS%3A&color=ffffff&iconColor=ffffff&bgColor=rgba(55,65,81,1)&labelBgColor=rgba(127,0,255,0.9)&layout=split&style=square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/namyus?label=FOLLOWERS&style=for-the-badge&color=4F46E5" alt="GitHub followers" />
 </p>
 
